@@ -1,0 +1,26 @@
+/* Center the form and give it some top spacing */
+form {
+    max-width: 500px;
+    margin: 2rem auto;
+  }
+  
+  /* Optional shadow and border radius */
+  form {
+    border: 1px solid #dee2e6;
+    border-radius: 0.5rem;
+    padding: 2rem;
+    background-color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  /* Add some spacing between inputs */
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  /* Optional button enhancements */
+  .btn-primary {
+    width: 100%;
+    font-weight: 600;
+  }
+  
