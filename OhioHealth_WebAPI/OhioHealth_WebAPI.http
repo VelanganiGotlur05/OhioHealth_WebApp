@@ -1,0 +1,6 @@
+@OhioHealth_WebAPI_HostAddress = http://localhost:5109
+
+GET {{OhioHealth_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
